@@ -1,0 +1,9 @@
+{
+    "name": "mi-app-docker",
+    "version": "1.0.0",
+    "description": "Mi primer programa de Docker",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    }
+  }
